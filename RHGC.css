@@ -123,7 +123,7 @@ marquee{
 }
 @media screen and (max-width:667px) {
     .container-element {
-       top:30%;
-        left:30%;
+       top:60%;
+       left:60%;
     }
 }
