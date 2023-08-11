@@ -121,9 +121,8 @@ marquee{
     font-size:15px;
     
 }
-@media screen (max-width:600px) {
+@media screen (max-width:667px) {
     .container-element {
-       top:50%;
-       left:50%;
+       position:absolute;
     }
 }
