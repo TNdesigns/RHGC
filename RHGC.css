@@ -26,7 +26,7 @@ div button{
     font-family:cochin;
     border-radius:10px;
 }
-.container{
+.container-element{
     width:418px;
     height:350px;
     right:35%;
@@ -122,14 +122,14 @@ marquee{
     
 }
 @media screen and (max-width:750px){
-    .absolute-element{
-       top:30%;
-       left:30%;
+    .container-element{
+       top:50%;
+       left:50%;
     }
 }
 @media screen and (max-height:1334px){
-    .absolute-element{
-        top:30%;
-        left:30%;
+    .container-element{
+        top:50%;
+        left:50%;
     }
 }
