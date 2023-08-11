@@ -122,7 +122,7 @@ marquee{
     
 }
 @media screen (max-width:667px) {
-    .position-element {
+    .absolute-element {
         top:50%;
         left:50%;
     }
