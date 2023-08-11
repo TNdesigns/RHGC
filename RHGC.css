@@ -122,13 +122,13 @@ marquee{
     
 }
 @media screen and (max-width:750px){
-    .container-class{
+    .container-element{
        top:30%;
        left:30%;
     }
 }
 @media screen and (max-height:1334px){
-    .container-class{
+    .container-element{
         top:30%;
         left:30%;
     }
