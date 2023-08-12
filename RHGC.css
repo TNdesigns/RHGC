@@ -122,24 +122,28 @@ marquee{
     
 }
 @media screen and (max-width:375px){
-    .container{
-    width:418px;
-    height:350px;
-    right:35%;
-    position: absolute;
-    background-color:blueviolet;
-    border-radius:20px;
-    orientation:portrait;
+    .main{
+    top:70%;
+    left:0.1%;
+    width:100%;
     }
-}
-@media screen and (max-height:667px){
-    .container{
-    width:418px;
-    height:350px;
-    right:35%;
-    position: absolute;
-    background-color:blueviolet;
-    border-radius:20px;
-    orientation:portrait;
+    input:nth-child(1)[type="radio"]:checked ~ .a1,
+    input:nth-child(2)[type="radio"]:checked ~ .a2,
+    input:nth-child(3)[type="radio"]:checked ~ .a3,
+    input:nth-child(4)[type="radio"]:checked ~ .a4,
+    input:nth-child(5)[type="radio"]:checked ~ .a5,
+    input:nth-child(6)[type="radio"]:checked ~ .a6{
+        width:95%;
+    }
+    .div0{
+        width:100%;
+        
+    }
+    div button{
+        font-size:98.8%;
+        
+    }
+    marquee{
+        width:100%;
     }
 }
