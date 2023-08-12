@@ -121,7 +121,7 @@ marquee{
     font-size:15px;
     
 }
-@media screen (max-width:750px){
+@media screen (max-width:670px){
     .main{
        top:30%;
        left:30%;
