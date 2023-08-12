@@ -129,6 +129,7 @@ marquee{
     position: absolute;
     background-color:blueviolet;
     border-radius:20px;
+    oreientation:portrait;
     }
 }
 @media screen and (max-height:1250px){
@@ -139,5 +140,6 @@ marquee{
     position: absolute;
     background-color:blueviolet;
     border-radius:20px;
+    oreientation:portrait;
     }
 }
