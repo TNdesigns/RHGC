@@ -121,9 +121,9 @@ marquee{
     font-size:15px;
     
 }
-@media screen and (max-width:670px;){
+@media screen and (max-width:670px){
     .main{
-       width:418px;
+    width:418px;
     height:350px;
     right:35%;
     position: absolute;
@@ -131,9 +131,9 @@ marquee{
     border-radius:20px;
     }
 }
-@media screen and (max-height:1334px;){
+@media screen and (max-height:1334px){
     .main{
-       width:418px;
+    width:418px;
     height:350px;
     right:35%;
     position: absolute;
