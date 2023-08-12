@@ -123,13 +123,21 @@ marquee{
 }
 @media screen and (max-width:670px){
     .main{
-       position:absolute;
-       left:50%;
+       width:418px;
+    height:350px;
+    right:35%;
+    position: absolute;
+    background-color:blueviolet;
+    border-radius:20px;
     }
 }
 @media screen and (max-height:1334px){
     .main{
-        position:absolute;
-        left:50%;
+       width:418px;
+    height:350px;
+    right:35%;
+    position: absolute;
+    background-color:blueviolet;
+    border-radius:20px;
     }
 }
