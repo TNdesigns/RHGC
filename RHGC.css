@@ -123,13 +123,13 @@ marquee{
 }
 @media screen (max-width:670px){
     .main{
-       
+       position:absolute;
        left:50%;
     }
 }
 @media screen (max-height:1334px){
     .main{
-        
+        position:absolute;
         left:50%;
     }
 }
