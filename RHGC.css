@@ -124,12 +124,12 @@ marquee{
 @media screen (max-width:670px){
     .main{
        
-       right:35%;
+       left:50%;
     }
 }
 @media screen (max-height:1334px){
     .main{
         
-        right:35%;
+        left:50%;
     }
 }
