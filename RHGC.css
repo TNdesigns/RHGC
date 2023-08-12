@@ -121,14 +121,14 @@ marquee{
     font-size:15px;
     
 }
-@media screen and (max-width:750px){
-    main-class{
+@media screen and (min-width:750px){
+    .main-class{
        top:50%;
        left:50%;
     }
 }
-@media screen and (max-height:1334px){
-    main-class{
+@media screen and (min-height:1334px){
+    .main-class{
         top:50%;
         left:50%;
     }
