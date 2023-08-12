@@ -121,7 +121,7 @@ marquee{
     font-size:15px;
     
 }
-@media screen and (max-width:670px){
+@media screen and (max-width:375px){
     .main{
     width:418px;
     height:350px;
@@ -132,7 +132,7 @@ marquee{
     oreientation:portrait;
     }
 }
-@media screen and (max-height:1250px){
+@media screen and (max-height:667px){
     .main{
     width:418px;
     height:350px;
