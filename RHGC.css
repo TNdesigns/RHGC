@@ -146,4 +146,7 @@ marquee{
     marquee{
         width:100%;
     }
+    .btn1{
+        padding:0.8%;
+    }
 }
