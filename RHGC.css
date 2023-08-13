@@ -171,7 +171,7 @@ marquee{
 @media screen and (max-height:915px){
     .main{
         top:49%;
-        position:fixed;
+        position:absolute;
         
     }
     marquee{
