@@ -30,8 +30,8 @@ div button{
 .container{
     width:418px;
     height:350px;
-    right:33.5%;
-    position: absolute;
+    left:34%;
+    position:relative;
     background-color:blueviolet;
     border-radius:20px;
     
@@ -170,8 +170,8 @@ marquee{
 }
 @media screen and (max-height:915px){
     .main{
-        top:49%;
-        position:absolute;
+        top:52%;
+        position:relative;
         
     }
     marquee{
