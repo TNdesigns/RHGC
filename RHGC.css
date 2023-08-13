@@ -121,7 +121,7 @@ marquee{
     font-family:verdana;
     font-size:15px;
 }
-@media screen and (max-width:412px){
+@media screen and (max-width:375px){
     .main{
     top:70%;
     left:0.1%;
@@ -168,7 +168,7 @@ marquee{
         border-radius:15px;
     }
 }
-@media screen and (max-height:915px){
+@media screen and (max-height:812px){
     .main{
         top:52%;
         position:relative;
